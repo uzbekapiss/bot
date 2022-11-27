@@ -66,8 +66,8 @@ if($tx == "/start") {
 bot('sendMessage',[
 'chat_id'=>$cid,
 'parse_mode'=>"markdown",
-'text'=>"*Bu bot @italianskiye_bass_muzik kanali uchun tayyorlangan bot
-sizga ham kerak bosa @Alibek_0620 ga yozing!*",
+'text'=>"*😁Bu bot @italianskiye_bass_muzik kanali uchun tayyorlangan bot
+sizga ham kerak bosa @Alibek_0620 ga yozing!✅✅*",
 ]);
 }
 
