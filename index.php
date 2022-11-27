@@ -101,7 +101,7 @@ bot('sendaudio',[
 'chat_id'=>$channel_id,
 'audio'=>new CURLFile("music.mp3"),
 'thumb'=>new CURLFile("image.jpg"),
-'title'=>'$title',
+'title'=>$title,
 'performer'=>'@'.$channel_user,
  'caption'=>"*$caption*\n* @italianskiye_bass_muzik *",
  'parse_mode'=>"markdown",
